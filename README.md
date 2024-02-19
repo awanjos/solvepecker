@@ -1,5 +1,4 @@
-# Solvepecker
-Tactical Forwarder Planning in Forestry Supply Chain
+# Tactical Forwarder Planning in Forestry Supply Chain
 
 # importing libraries
 import numpy as np
